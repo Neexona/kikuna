@@ -1,4 +1,3 @@
-const config = require('./config.json');
 const {Client, RichEmbed} = require('discord.js');
 const bot = new Client({disableEveryone: true});
 const ms = require('ms');
